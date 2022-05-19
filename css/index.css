@@ -1,0 +1,32 @@
+.welcome {
+    background-color: red; 
+    font-size: 30px;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#tacos {
+    
+    color: blue;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#pizza {
+
+    background-color: black;
+    font-family: sans-serif;
+}
+
+#locro {
+
+    background-color: yellow;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}

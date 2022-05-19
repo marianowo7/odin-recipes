@@ -1,0 +1,24 @@
+#ul {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.ol {
+    background-color: yellow;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p {
+    background-color: grey;
+    font-size: 24px; 
+}
+
+.head {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

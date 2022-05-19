@@ -1,0 +1,17 @@
+.ing {
+    background-color: black;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.li {
+    background-color: grey;
+    font-size: 25px;
+    text-align: center;
+}
+
+#des1 {
+    text-align: center;
+    background-color: grey;
+    font-size: 20px;
+}

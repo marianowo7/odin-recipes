@@ -1,0 +1,34 @@
+.des {
+
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+p {
+
+    background-color: rgba(0, 0, 0, 0.596);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subheader {
+
+    background-color: grey;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#header {
+
+    background-color: turquoise;
+    text-align: center;
+}
+
+.steph {
+    background-color: red;
+}
+
+#ol{
+    background-color: rgb(18, 83, 40);
+}
